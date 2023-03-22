@@ -1,0 +1,10 @@
+{
+  "name": "TravelBoots",
+  "version_number": "1.0",
+  "website_url": "",
+  "description": "Adds boots that double movement speed. Requires 1 hide to craft.",
+  "dependencies": [
+    "sinai-dev-SideLoader-3.7.1",
+    "BepInEx-BepInExPack_Outward-5.4.8"
+  ]
+}
